@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+# training outputs (identical copy committed as model_weights.pt)
+jepa_final_model.pt
+jepa_checkpoint_epoch_*.pt
